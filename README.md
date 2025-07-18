@@ -1,7 +1,6 @@
 <div align="center">
 ![Coding GIF](https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif)
 
-
 ## Hello, I'm **Tasneem Saeed Mohamed** 👋  
 ### A student at the Faculty of Computer Science and Information Technology – Al Arish University 🏫  
 > 🚀 Still under construction, but full of passion to build my future in the world of programming and technology ✨  
